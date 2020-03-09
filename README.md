@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://cdn.rawgit.com/GerardoGallegos/drak/9c2487e8/docs/images/sticker.png">
+  <img src="https://cdn.jsdelivr.net/gh/GerardoGallegos/drak@9c2487e8/docs/images/sticker.png">
   <br>
   DRAK - Document React Apps
   <br>
